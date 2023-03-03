@@ -46,4 +46,10 @@ This project cleans, analyses, and visualizes NFL concussion data from 2012 to 2
 
 ### K Fold Score For Each Model
 
+![image](https://user-images.githubusercontent.com/87671757/222831826-422fa03f-f45b-4f35-b89b-249acadbef89.png)
+
 ### Random Forrest Regressor Model Injury Contributing Factors
+
+![image](https://user-images.githubusercontent.com/87671757/222831843-5fbe39f3-9fd0-47ea-9a01-9f46d38e80d4.png)
+
+![image](https://user-images.githubusercontent.com/87671757/222831881-4ab5fb29-06c5-430a-bfaa-aa01a14f93f2.png)
